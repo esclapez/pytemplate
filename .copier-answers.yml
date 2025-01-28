@@ -1,0 +1,37 @@
+# Changes here will be overwritten by Copier
+SelectCitation:
+- AddCitationFile_flag
+- AddCFFConvert_flag
+SelectCodeQualityFeatures:
+- AddLocalTests_flag
+- SelectGitHubActions_flag
+- AddLinting_flag
+- AddSonarCloud_flag
+- AddEditorConfig_flag
+SelectCommunityFeatures:
+- AddCodeConduct_flag
+- AddContributing_flag
+SelectDocumentationFeatures:
+- AddLocalDocumentation_flag
+- AddOnlineDocumentation_flag
+- AddDevDoc_flag
+- AddGitHubActionDocumentation_flag
+SelectGitHubActions:
+- AddGitHubActionBuild_flag
+- AddLinkCheck_flag
+SelectPublishReleaseFeatures:
+- SelectCitation_flag
+- AddZenodo_flag
+_commit: ca02f5e
+_src_path: python-template
+code_of_conduct_email: lucas.esclapez@gmail.com
+copyright_holder: Lucas E.
+email: lucas.esclapez@gmail.com
+full_name: Lucas E.
+github_organization: esclapez
+keywords: Test
+license: Apachev2
+package_name: pytemplate
+package_short_description: Test changes to NLeSC python template
+template_profile: recommended
+version: 0.1.0
